@@ -1,42 +1,64 @@
-# WorkingStiff AI  
-**Applied AI & Systems Learning Project**
+# WorkingStiff AI
+
+## Applied Backend and Systems Learning Project
 
 ## Overview
-WorkingStiff AI is a self-directed, hands-on learning project focused on understanding how modern, AI-assisted systems are structured, deployed, and supported. The goal of this project is practical exposure to real-world tools and workflows rather than building a production-grade AI product.
 
-This repository serves as a learning environment to explore backend services, APIs, containerized systems, and applied AI tools from a **support and operations perspective**.
+WorkingStiff AI is a self-directed, hands-on engineering project focused on learning how modern backend systems are designed, deployed, tested, and improved in real workflows.
+
+The project is centered on practical experience with backend services, APIs, containerized applications, cloud-oriented deployment concepts, and AI-assisted development workflows. The goal is not to present senior-level ownership or large-scale production claims, but to demonstrate serious, project-based learning through implementation, troubleshooting, iteration, and responsible use of modern tools.
+
+This repository reflects how I am developing as a self-taught engineer by building real systems, working through problems directly, and improving my technical judgment over time.
 
 ## Project Focus
-My primary focus areas include:
-- Running and troubleshooting services in a Linux environment
+
+Primary areas of focus include:
+
+- Building and understanding backend services and API-driven workflows
 - Working with containerized applications using Docker
-- Interacting with and testing REST APIs
-- Understanding how AI tools integrate into real workflows
-- Following documentation, diagnosing issues, and iterating safely
-- Practicing version control and documentation review using Git/GitHub
+- Running and troubleshooting services in Linux environments
+- Testing and debugging REST APIs
+- Learning how database-backed systems and service integrations behave in practice
+- Using Git and GitHub for version control and documentation
+- Applying AI development tools such as ChatGPT and Cursor to accelerate research, iteration, debugging, and documentation while keeping human judgment and accountability central to the work
 
-## Technologies & Tools (Exposure Level)
-- Linux (Ubuntu, RHEL fundamentals)
-- Docker (running containers, logs, service inspection)
-- Python (FastAPI – exposure and support-level usage)
-- Node.js (fundamental understanding)
-- REST APIs (testing and troubleshooting)
+## Technologies and Tools
+
+- JavaScript / TypeScript
+- Node.js
+- REST APIs
+- PostgreSQL
+- Docker
+- Linux
 - Git / GitHub
-- AI tools & large language models (applied usage, not model training)
-- Cloud concepts (storage, serverless fundamentals)
+- AWS fundamentals and deployment-oriented concepts
+- AI-assisted development tools and large language models
 
-## Scope & Leveling
-This project reflects **applied learning and support-level experience**.  
-It is not intended to represent senior engineering, system architecture ownership, or production responsibility.
+## Engineering Approach
 
-The emphasis is on:
-- Understanding how systems fit together
-- Troubleshooting and problem isolation
-- Learning modern tools in realistic scenarios
+This project reflects a practical learning approach built around:
+
+- understanding how systems fit together
+- writing and refining backend logic
+- diagnosing failures and isolating issues
+- learning safe iteration habits
+- improving documentation and maintainability
+- building stronger technical judgment through direct implementation
+
+I use AI tools as force multipliers for speed and learning, but not as substitutes for responsibility or understanding. The focus is on learning how systems behave, validating outputs, thinking through edge cases, and improving code and workflows over time.
+
+## Scope
+
+WorkingStiff AI is an applied learning project. It represents meaningful, hands-on engineering growth through implementation and troubleshooting, but it is not intended to overstate ownership, scale, or production responsibility.
+
+The emphasis is on honest technical development through:
+- backend and systems learning
+- project-based iteration
+- troubleshooting and problem isolation
+- responsible AI-assisted software development
 
 ## Why This Project Exists
-Rather than learning technologies in isolation, this project provides exposure to how multiple components interact in a real system. It supports a transition into Help Desk, IT Support, and Applied AI Technician roles where understanding systems, documentation, and workflows is critical.
 
----
+I created this project to learn modern software engineering in a practical way rather than only through isolated tutorials. WorkingStiff AI gives me a place to build, test, troubleshoot, and refine real workflows across backend services, infrastructure concepts, documentation, and AI-assisted tooling.
 
-*This repository is intentionally lightweight and focused on learning outcomes rather than completeness.*
+It reflects my transition into software engineering through hands-on project work and continuous improvement.
