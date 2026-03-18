@@ -1,4 +1,4 @@
-# WorkingStiff AI
+# WSAI (WorkingStiff AI)
 
 ## Applied Backend and Systems Learning Project
 
@@ -62,3 +62,19 @@ The emphasis is on honest technical development through:
 I created this project to learn modern software engineering in a practical way rather than only through isolated tutorials. WorkingStiff AI gives me a place to build, test, troubleshoot, and refine real workflows across backend services, infrastructure concepts, documentation, and AI-assisted tooling.
 
 It reflects my transition into software engineering through hands-on project work and continuous improvement.
+
+# Execution Authority Systems
+
+Source-of-truth monorepo for three bounded entities:
+
+- WSAI: Execution Authority System (trade workflows)
+- RSO: Regulated Service Operator (compliance workflows)
+- Alette: Decision Authority System (meaningful friction; decision cards)
+
+Rules:
+- Changes are made and released per-entity (wsai/, rso/, alette/).
+- CI is path-scoped: entity changes must not trigger other entities.
+- shared/ is for truly cross-domain primitives only (no vertical logic).
+
+Runbooks:
+- alette-runbook stays in its own repo (optional local symlink only).
