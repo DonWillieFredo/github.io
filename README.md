@@ -63,7 +63,7 @@ I created this project to learn modern software engineering in a practical way r
 
 It reflects my transition into software engineering through hands-on project work and continuous improvement.
 
-# Execution Authority Systems
+# EAS (Execution Authority Systems)
 
 Source-of-truth monorepo for three bounded entities:
 
